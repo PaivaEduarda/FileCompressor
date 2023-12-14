@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Lab04.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Compilador.cpp
+  FrequencyCounter.cpp
+  Huffman.cpp
+  HuffmanUtility.cpp
+  Node.cpp
+  Point.cpp
+  Gerando Código...
+  Lab04.vcxproj -> C:\Users\WIN10\Documents\GitHub\ExerciciosCPP\Lab04\x64\Debug\Compilador.exe
